@@ -54,10 +54,11 @@ body{
 }
 
 .category1{
-  background-color:#FFB6C1;
+  background-color: #FFB6C1;
 }
 
 .category2{
+  color: white;
   background-color: #FF0000;
 }
 
