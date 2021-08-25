@@ -52,6 +52,19 @@ body{
   padding-top: 55px;
   background-color: rgba(0,0,0,0.3);
 }
+
+.category1{
+  background-color:#FFB6C1;
+}
+
+.category2{
+  background-color: #FF0000;
+}
+
+.category3{
+  background-color: #FF0000;
+}
+
 /* Desktop view options */
 
 @media (min-width: 992px) {
