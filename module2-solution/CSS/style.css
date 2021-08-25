@@ -22,8 +22,8 @@ p {
   width: 100%;
 }
 
-.box { 
-  float: right
+.box {
+  text-align: top, left
 }
 
 ********** Large devices only **********/
