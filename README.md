@@ -7,6 +7,6 @@
 ## Module3 Assignment:
 * <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md">Description</a>
 * <a href="">View Page</a>
-* <a href="">Solution </a>
+* <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module3-solution">Solution </a>
 ## Module4 Assignment:
 ## Module5 Assignment:
