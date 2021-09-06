@@ -9,4 +9,7 @@
 * <a href="http://htmlpreview.github.io/?https://github.com/EthanSuu/html-css-javascript-for-web-developers/blob/main/module3-solution/index.html">View Page</a>
 * <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module3-solution">Solution </a>
 ## Module4 Assignment:
+* <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md">Description</a>
+* <a href="http://htmlpreview.github.io/?https://github.com/EthanSuu/html-css-javascript-for-web-developers/blob/main/module4-solution/easier/index.html">View Page</a>
+* <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module4-solution/easier">Solution </a>
 ## Module5 Assignment:
