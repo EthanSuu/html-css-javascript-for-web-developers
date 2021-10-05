@@ -14,5 +14,5 @@
 * <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module4-solution/easier">Solution </a>
 ## Module5 Assignment:
 * <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md">Description</a>
-* <a href="">View Page</a>
+* <a href="https://ethansuu.github.io/html-css-javascript-for-web-developers/module5-solution/index.html#">View Page</a>
 * <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module5-solution">Solution </a>
