@@ -19,3 +19,4 @@
 
 # Certificate
 <img src="https://github.com/EthanSuu/html-css-javascript-for-web-developers/blob/main/Certificate/Coursera%20ZH5FR5E8XSL8.pdf">
+<embed src="EthanSuu/html-css-javascript-for-web-developers/blob/main/Certificate/Coursera%20ZH5FR5E8XSL8.pdf" type="application/pdf">
