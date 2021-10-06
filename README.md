@@ -17,5 +17,5 @@
 * <a href="https://ethansuu.github.io/html-css-javascript-for-web-developers/module5-solution/index.html#">View Page</a>
 * <a href="https://github.com/EthanSuu/html-css-javascript-for-web-developers/tree/main/module5-solution">Solution </a>
 
-
-<a href="https://www.coursera.org/account/accomplishments/certificate/ZH5FR5E8XSL8"># Certificate </a>
+# Certificate
+<a href="https://www.coursera.org/account/accomplishments/certificate/ZH5FR5E8XSL8">Check here </a>
